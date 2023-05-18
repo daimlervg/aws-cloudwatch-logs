@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CloudWatchLogSample/1.0.0": {
+        "dependencies": {
+          "AWSSDK.CloudWatchLogs": "3.7.104.72"
+        },
+        "runtime": {
+          "CloudWatchLogSample.dll": {}
+        }
+      },
+      "AWSSDK.CloudWatchLogs/3.7.104.72": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.106.35"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.CloudWatchLogs.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.104.72"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.106.35": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.106.35"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudWatchLogSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.CloudWatchLogs/3.7.104.72": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bGOI4no6lBQlcxJPZcd3jiiFYMy4rHnk7tTxFYtBrAEYYcOgeQJigPc9HiFXfOdXuPFy82bo8GrQ4VHPARmJcg==",
+      "path": "awssdk.cloudwatchlogs/3.7.104.72",
+      "hashPath": "awssdk.cloudwatchlogs.3.7.104.72.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.106.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ktw8eI07b9qXfiCi+lyr2FjQJil41Uf0UPNTDvxf7yDRDUEhq2cewtGKctpLcZ3MtlqMGtwjIpm/uA0RPSakGw==",
+      "path": "awssdk.core/3.7.106.35",
+      "hashPath": "awssdk.core.3.7.106.35.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0z0fpqSdzYQ7rfrw8QlYk8+5ElQTzSieFu87yXUxtH7DNbOx0Es/PpVnOo1hir7uYfZQCa+jg180Y1iBhekuLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daiml\\source\\repos\\CloudWatchLogSample\\CloudWatchLogSample\\CloudWatchLogSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daiml\\.nuget\\packages\\awssdk.cloudwatchlogs\\3.7.104.72\\awssdk.cloudwatchlogs.3.7.104.72.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\awssdk.core\\3.7.106.35\\awssdk.core.3.7.106.35.nupkg.sha512"
+  ],
+  "logs": []
+}
